@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EMSA_Docker">
+    <output-path>$PROJECT_DIR$/classes/artifacts/EMSA_Docker</output-path>
+    <root id="archive" name="EMSA_Docker.war" />
+  </artifact>
+</component>

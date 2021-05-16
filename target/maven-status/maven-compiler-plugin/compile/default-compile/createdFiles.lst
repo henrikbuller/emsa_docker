@@ -1,0 +1,8 @@
+se\yrgo\service\EmployeeManagementServiceLocal.class
+se\yrgo\dataaccess\EmployeeDataAccessProductionVersion.class
+se\yrgo\service\EmployeeManagementService.class
+se\yrgo\client\Main.class
+se\yrgo\dataaccess\EmployeeDataAccess.class
+se\yrgo\rest\EmployeeResource.class
+se\yrgo\service\EmployeeManagementImplementation.class
+se\yrgo\domain\Employee.class
